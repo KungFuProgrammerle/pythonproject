@@ -1,0 +1,16 @@
+*.log
+*.png
+*.jpg
+*.pth
+*.npz
+*.mp4
+*.sh
+*.gif
+*.avi
+*.pdiparams
+*.nrrd
+*.pt
+LatexPaper/
+SINet-master/
+SINet-V2-main/
+*.gz
